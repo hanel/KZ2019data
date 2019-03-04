@@ -1,0 +1,11 @@
+Package: KZ2019data
+Type: Package
+Title: Helps with data and functions
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <hanel@fzp.czu.cz>
+Description: It does not many things
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: data.table
